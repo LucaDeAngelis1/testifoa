@@ -4,3 +4,5 @@ matplotlib
 joblib
 seaborn
 scikit-learn
+openpyxl
+xlsxwriter
